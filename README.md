@@ -78,13 +78,22 @@ dependencies": {
 
 ![](/Screenshot/print3.png)
 
-###### 6ª Crie um banco de dados chamado: sistema
+###### 6ª Crie duas pastas camanhas public e backup:
+* Primeiro comece criando a pasta public dentro da pasta backend
+
+![](/Screenshot/print4.png)
+
+* Agora crie a pasta backup dentro da pasta backup
+
+![](/Screenshot/print5.png)
+
+###### 7ª Crie um banco de dados chamado: sistema
 * CREATE DATABASE sistema;
 
-###### 5ª Execute a aplicação 
+###### 8ª Execute a aplicação 
 * npm start
 
-###### 6ª O backend iniciará na porta: 5000 - Acesse: http://localhost:5000/arquivos
+###### O backend iniciará na porta: 5000 - Acesse: http://localhost:5000/arquivos
 
 ## 🎲 Rodando o Front End 
 

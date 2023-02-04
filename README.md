@@ -66,11 +66,11 @@ dependencies": {
 
 ###### 5ª Altere a senha e o usuário do banco de dados do arquivo conn.js, que se localize na pasta db:
 
-* Com base na imagem em baixo coloque dentro das aspas simples o nome do usuário do seu banco, no caso do print abaixo está como admin.
+* Coloque dentro das aspas simples o nome do usuário do seu banco, no caso do print abaixo está como admin.
 
 ![](/Screenshot/print.png)
 
-* Com base na imagem em baixo coloque dentro das aspas simples o nome da senha do seu banco de dados, no caso do print foi colocado como admin, por padrão o banco de dados vem sem senha.
+* Coloque dentro das aspas simples o nome da senha do seu banco de dados, no caso do print foi colocado como admin, por padrão o banco de dados vem sem senha.
 
 ![](/Screenshot/print2.png)
 
@@ -78,12 +78,12 @@ dependencies": {
 
 ![](/Screenshot/print3.png)
 
-###### 6ª Crie duas pastas camanhas public e backup:
+###### 6ª Crie duas pastas chamadas public e backup:
 * Primeiro comece criando a pasta public dentro da pasta backend
 
 ![](/Screenshot/print4.png)
 
-* Agora crie a pasta backup dentro da pasta backup
+* Agora crie a pasta backup dentro da pasta public
 
 ![](/Screenshot/print5.png)
 

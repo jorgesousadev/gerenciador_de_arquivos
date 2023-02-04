@@ -1,14 +1,10 @@
-
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
-##### Readme não foi terminado ainda....
-
 # Gerenciador de Arquivos
 
-#### 
+#### É um gerenciador de arquivos simples que permite fazer upload de diversos arquivos.
 
 ## Funcionalidades do projeto
 
+- É possível adicionar, excluir e baixar arquivos.
 
 ## 🛠 Tecnologias e Ferramentas usadas na construção do projeto:
 
@@ -50,7 +46,7 @@ dependencies": {
     "web-vitals": "^2.1.4"
   },
 ```
-## 🎲 Rodando o Back End (Servidor - API)
+## 🎲 Rodando o Back End 
 
 ###### 1ª Clone este repositório
 * git clone 

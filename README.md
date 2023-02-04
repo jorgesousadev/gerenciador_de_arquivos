@@ -49,10 +49,10 @@ dependencies": {
 ## 🎲 Rodando o Back End 
 
 ###### 1ª Clone este repositório
-* git clone 
+* git clone https://github.com/jorgesousadev/gerenciador_de_arquivos.git
 
 ###### 2ª Acesse a pasta do projeto no terminal/cmd
-* cd 
+* cd gerenciador_de_arquivos
 
 ###### 3ª Vá para a pasta backend
 * cd backend
@@ -62,9 +62,15 @@ dependencies": {
 * ou:
 * yarn install
 
-###### 5ª Altere a senha e o usuário do banco de dados do arquivo conn.js, que se localize na pasta db 
+###### 5ª Altere a senha e o usuário do banco de dados do arquivo conn.js, que se localize na pasta db:
+
 * Com base na imagem em baixo coloque dentro das aspas simples o nome do usuário do seu banco, no caso do print abaixo está como admin.
+
+![](/Screenshot/print.png)
+
 * Com base na imagem em baixo coloque dentro das aspas simples o nome da senha do seu banco de dados, no caso do print foi colocado como admin, por padrão o banco de dados vem sem senha.
+
+![](/Screenshot/print2.png)
 
 * Se você não colocou senha no seu banco de dados, deixe então as aspas simples vazia ```''```.
 
@@ -79,7 +85,7 @@ dependencies": {
 ## 🎲 Rodando o Front End 
 
 ###### 1ª Clone este repositório
-* git clone 
+* git clone https://github.com/jorgesousadev/gerenciador_de_arquivos.git
 
 ###### 2ª Acesse a pasta do projeto no terminal/cmd
 * cd 

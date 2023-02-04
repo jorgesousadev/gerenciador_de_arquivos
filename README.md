@@ -6,6 +6,8 @@
 
 - É possível adicionar, excluir e baixar arquivos.
 
+![](/Screenshot/projeto.png)
+
 ## 🛠 Tecnologias e Ferramentas usadas na construção do projeto:
 
 - [Visual Studio Code](https://code.visualstudio.com/)

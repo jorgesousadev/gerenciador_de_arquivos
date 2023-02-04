@@ -90,7 +90,8 @@ dependencies": {
 * git clone https://github.com/jorgesousadev/gerenciador_de_arquivos.git
 
 ###### 2ª Acesse a pasta do projeto no terminal/cmd
-* cd 
+* cd gerenciador_de_arquivos
+
 ###### 3ª Vá para a pasta frontend
 * cd frontend
 

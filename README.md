@@ -74,6 +74,8 @@ dependencies": {
 
 * Se você não colocou senha no seu banco de dados, deixe então as aspas simples vazia ```''```.
 
+![](/Screenshot/print3.png)
+
 ###### 6ª Crie um banco de dados chamado: sistema
 * CREATE DATABASE sistema;
 

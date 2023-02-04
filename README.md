@@ -70,7 +70,7 @@ dependencies": {
 * Com base na imagem em baixo coloque dentro das aspas simples o nome do usuário do seu banco, no caso do print abaixo está como admin.
 * Com base na imagem em baixo coloque dentro das aspas simples o nome da senha do seu banco de dados, no caso do print foi colocado como admin, por padrão o banco de dados vem sem senha.
 
-* Se você não colocou senha no seu banco de dados, deixe então as aspas simples vazia ```'PASSWORD': ''```.
+* Se você não colocou senha no seu banco de dados, deixe então as aspas simples vazia ```''```.
 
 ###### 6ª Crie um banco de dados chamado: sistema
 * CREATE DATABASE sistema;
